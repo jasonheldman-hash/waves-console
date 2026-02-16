@@ -1,0 +1,5 @@
+Wave_ID,Wave,Return_1D,Return_30D,Return_60D,Return_365D,Alpha_1D,Alpha_30D,Alpha_60D,Alpha_365D,Alpha_Momentum_365D,Alpha_Volatility_365D,NAV,Coverage_Score,Date,Category,Mode,Beta_Real,Benchmark_Return_30D,Flags
+AI & Cloud MegaCap Wave,AI & Cloud MegaCap Wave,0.01,0.05,0.08,0.2,0.005,0.02,0.03,0.1,0.06,0.04,1000,100,2026-01-02,Growth,Active,1.1,0.03,
+Crypto Broad Growth Wave,Crypto Broad Growth Wave,-0.005,0.1,0.15,0.5,-0.01,0.05,0.08,0.3,0.18,0.12,1200,95,2026-01-02,Growth,Active,1.5,0.05,
+Gold Wave,Gold Wave,0.002,0.03,0.04,0.1,0.001,0.01,0.015,0.05,0.02,0.01,950,100,2026-01-02,Defensive,Passive,0.8,0.02,
+
